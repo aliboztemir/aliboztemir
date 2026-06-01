@@ -1,52 +1,48 @@
 # Hi, I'm Ali Boztemir
 
-**Principal SDET · QA Architect · Quality Engineering Leader**
+**Senior QA Architect · QAOps · Cloud & Data Quality Engineering**
 
-I help teams build quality into software delivery through scalable test automation, quality engineering strategy, and CI/CD-driven validation.  
-With 15+ years of experience, I have worked across cloud platforms, banking systems, enterprise applications, and data-intensive environments.
+Senior QA Architect and Test Engineering Lead with 15+ years of experience building scalable automation frameworks and quality engineering practices for complex platforms.
 
-My work combines **hands-on engineering** with **technical leadership** — from designing automation frameworks and testing strategies to improving release confidence across APIs, microservices, and distributed systems.
+My work goes beyond traditional QA. I focus especially on:
+
+- **QAOps** and quality engineering at scale
+- **Cloud-native test architecture**
+- **Data pipeline / ETL validation**
+- **Microservices, API, and integration testing**
+- **CI/CD-driven automation**
+- **Playwright, Java, TypeScript, Python, and C# ecosystems**
+
+I have worked across banking, supply chain, and enterprise platforms, leading teams, defining test strategy, and building automation solutions for modern distributed systems.
 
 📍 Seville, Spain
 
-## What I Bring
+## Core Focus Areas
 
-- Scalable **test automation architecture** for UI, API, integration, and component testing
-- **Quality strategy** for engineering teams working in fast-moving delivery environments
-- Strong focus on **API-first platforms**, **microservices**, and **cloud-native systems**
-- Hands-on experience with **Java, TypeScript, C#, and Python**
-- Practical leadership in **mentoring engineers**, defining standards, and improving delivery quality
-- Deep understanding of **CI/CD quality gates**, release readiness, and testability in modern platforms
-
-## Core Areas
-
-- Test Automation Architecture
-- Quality Engineering Strategy
-- API & Integration Testing
-- Component & Contract Testing
-- Playwright with TypeScript
-- Java + RestAssured
-- C# + NUnit
-- Python + pytest
+- QA Architecture
+- QAOps & DevOps for Testing
+- Cloud Testing
+- Data & ETL Testing
+- API and Microservices Validation
+- Test Automation Framework Design
 - CI/CD Quality Gates
-- Performance & Reliability Validation
-- QA Leadership & Mentoring
+- Performance and Integration Testing
 
 ## Technologies
 
-**Languages**  
-Java · TypeScript · C# · Python
+**Languages & Frameworks**  
+Java · TypeScript · Python · C# · Spring Boot · Playwright · Selenium · Rest Assured · JUnit · Cucumber · Behave · PyTest
 
-**Automation & Testing**  
-Playwright · Selenium · RestAssured · NUnit · JUnit · SpecFlow · pytest
+**Cloud, DevOps & QAOps**  
+AWS · Azure · IONOS Cloud · Docker · Kubernetes · Jenkins · GitHub Actions · Ansible
 
-**Cloud & DevOps**  
-AWS · Docker · Kubernetes · Jenkins · GitHub Actions · Ansible
-
-**Data & Platforms**  
-PostgreSQL · Oracle · Kafka · RabbitMQ · Databricks · Hadoop · SAP
+**Data & Platform Testing**  
+Oracle · Hadoop · Databricks · Cloudera · Kafka · RabbitMQ
 
 ## Featured Projects
+
+- [playwright-quality-framework](https://github.com/aliboztemir/playwright-quality-framework)  
+  A flagship Playwright + TypeScript automation framework designed for scalable UI and API quality engineering, maintainable architecture, and CI/CD integration.
 
 - [csharp-whitebox-api-testing](https://github.com/aliboztemir/csharp-whitebox-api-testing)  
   White-box API testing examples in C#, focused on backend validation, maintainability, and practical engineering patterns.
@@ -57,12 +53,25 @@ PostgreSQL · Oracle · Kafka · RabbitMQ · Databricks · Hadoop · SAP
 - [java-restassured-api-testing](https://github.com/aliboztemir/java-restassured-api-testing)  
   REST API automation examples with Java and RestAssured, built around scalable framework design and readable test patterns.
 
+## Current Role
+
+**QA Architect / Technical Team Lead at Arsys (IONOS Group)**  
+Leading QA strategy, end-to-end regression and integration testing, automation architecture, and CI/CD quality practices across multiple projects.
+
+## Professional Highlights
+
+- Built automation frameworks for enterprise-scale systems
+- Led QA teams and defined engineering standards
+- Designed CI/CD pipelines and quality gates
+- Validated distributed systems, APIs, and data workflows
+- Combined QA leadership with cloud and platform engineering practices
+
 ## Current Focus
 
 - Building robust Playwright architectures with TypeScript
-- Advancing API and integration testing practices
+- Advancing QAOps and CI/CD quality practices
 - Strengthening quality in distributed and cloud-native systems
-- Embedding validation into CI/CD workflows
+- Expanding data pipeline and ETL validation approaches
 - Creating practical, sustainable QA architecture for engineering teams
 
 ## Links
